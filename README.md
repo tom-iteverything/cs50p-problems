@@ -15,4 +15,4 @@ This repo's purpose is served by listing the problem sets for each lecture week 
 1. [**Et Cetera**](https://cs50.harvard.edu/python/2022/weeks/9/)
 
 ### Python Documentation Link:
-**[Python 3 Documentation](docs.python.org/3/library/functions.html)**
+**[Python 3 Documentation](https://docs.python.org/3/library/functions.html)**
