@@ -1,5 +1,12 @@
-# Sets emoji as a string, inputted, and replaces the spaces with '...'
-emoji = input()
+# Main function
+def main():
+    # Sets emoji as a string, inputted
+    emoji = input().strip()
+    # Shows interpretted text as emoji
+    print(convert(emoji))
 
-# Shows interpretted text as emoji
-print(f"{emoji}")
+# Convert function
+def convert(asciiEmoji: str):
+    return asciiEmoji.replace(":)", "🙂").replace(":(", "🙁")
+
+main()
